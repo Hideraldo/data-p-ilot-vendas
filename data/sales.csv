@@ -1,0 +1,226 @@
+pedido_id,data,produto,categoria,cliente_id,cidade,canal,quantidade,preco_unitario,status
+PED-0001,2025-02-25,Luminária Smart,Casa Inteligente,CLI-058,São Paulo,site,4,189.9,CONCLUIDO
+PED-0002,2025-12-27,Mochila Urban,Utilidades,CLI-016,São Paulo,marketplace,3,224.91, concluido
+PED-0003,2025-10-04,Suporte para Notebook,Utilidades,CLI-061,Salvador,loja física,2,125.91,Concluido
+PED-0004,2025-02-27,Cadeira Ergo,Móveis,CLI-014,Recife,aplicativo,3,1259.9,Concluido
+PED-0005,2025-05-19,Cadeira Ergo,Móveis,CLI-035,Recife,marketplace,4,1199.9,Concluido
+PED-0006,2025-05-14,Mochila Urban,Utilidades,CLI-019,Recife,marketplace,3,237.41,CONCLUIDO
+PED-0007,2025-12-29,Headset Cloud,Acessórios,CLI-015,São Paulo,marketplace,1,265.9, concluido
+PED-0008,2025-07-19,Cadeira Ergo,Móveis,CLI-003,Rio de Janeiro,marketplace,2,1139.9,CONCLUIDO
+PED-0009,2025-02-07,Suporte para Notebook,Utilidades,CLI-083,Brasília,aplicativo,5,146.9,CONCLUIDO
+PED-0010,2025-12-14,Luminária Smart,Casa Inteligente,CLI-033,Curitiba,site,1,170.91, concluido
+PED-0011,2025-06-27,Mochila Urban,Utilidades,CLI-051,Fortaleza,site,2,237.41,concluido
+PED-0012,2025-07-27,Smart Speaker Mini,Casa Inteligente,CLI-009,Curitiba,marketplace,4,399.9, concluido
+PED-0013,2025-11-18,Headset Cloud,Acessórios,CLI-063,Recife,loja física,3,265.9,CONCLUIDO
+PED-0014,2025-12-20,Mouse Precision,Acessórios,CLI-061,Belo Horizonte,site,3,151.91,concluido
+PED-0015,2025-08-08,Notebook Pulse 14,Eletrônicos,CLI-028,Rio de Janeiro,site,3,3324.9,Concluido
+PED-0016,2025-06-13,Mochila Urban,Utilidades,CLI-060,São Paulo,aplicativo,5,262.4, concluido
+PED-0017,data-invalida,Suporte para Notebook,Utilidades,CLI-085,Belo Horizonte,marketplace,5,146.9,cancelado
+PED-0018,2025-08-27,Webcam Full HD,Acessórios,CLI-074,Curitiba,loja física,5,197.91,Cancelado
+PED-0019,2025-10-31,Mesa Office,Móveis,CLI-025,São Paulo,loja física,2,892.39,concluido
+PED-0020,2025-04-28,Mouse Precision,Acessórios,CLI-030,Fortaleza,aplicativo,5,151.91,Cancelado
+PED-0021,2025-03-10,Mochila Urban,Utilidades,CLI-040,Salvador,site,3,237.41,Concluido
+PED-0022,2025-11-11,Notebook Pulse 14,Eletrônicos,CLI-074,Salvador,loja física,3,3149.91, concluido
+PED-0023,2025-10-01,Mesa Office,Móveis,CLI-043,Brasília,marketplace,5,849.9,concluido
+PED-0024,2025-11-24,Smart Speaker Mini,Casa Inteligente,CLI-095,Brasília,marketplace,2,349.9,concluido
+PED-0025,2025-02-22,Webcam Full HD,Acessórios,CLI-076,Fortaleza,site,1,197.91,CONCLUIDO
+PED-0026,2025-04-22,Suporte para Notebook,Utilidades,CLI-072,Rio de Janeiro,aplicativo,2,125.91, concluido
+PED-0027,2025-10-29,Cadeira Ergo,Móveis,CLI-021,Fortaleza,loja física,3,1139.9,concluido
+PED-0028,2025-04-21,Mesa Office,Móveis,CLI-012,Fortaleza,site,3,849.9,Concluido
+PED-0029,2025-11-06,Cadeira Ergo,Móveis,CLI-094,Belo Horizonte,site,4,1139.9,CONCLUIDO
+PED-0030,2025-10-10,Cadeira Ergo,Móveis,CLI-080,Curitiba,marketplace,1,1259.9,CONCLUIDO
+PED-0031,2025-12-05,Suporte para Notebook,Utilidades,CLI-011,Rio de Janeiro,site,4,146.9,Concluido
+PED-0032,2025-08-21,Mesa Office,Móveis,CLI-048,Curitiba,marketplace,3,849.9,Cancelado
+PED-0033,2025-12-16,Smart Speaker Mini,Casa Inteligente,CLI-082,Recife,marketplace,2,429.91, concluido
+PED-0034,2025-07-14,Cadeira Ergo,Móveis,CLI-089,Rio de Janeiro,loja física,1,1259.9,concluido
+PED-0035,2025-01-17,Mesa Office,Móveis,CLI-035,Salvador,marketplace,5,892.39,Cancelado
+PED-0036,2025-06-11,Suporte para Notebook,Utilidades,CLI-051,Belo Horizonte,marketplace,3,146.9,concluido
+PED-0037,2025-05-07,Webcam Full HD,Acessórios,CLI-075,Fortaleza,aplicativo,3,219.9,concluido
+PED-0038,2025-03-12,Webcam Full HD,Acessórios,CLI-012,São Paulo,site,2,219.9,Cancelado
+PED-0039,2025-03-23,Headset Cloud,Acessórios,CLI-050,Fortaleza,aplicativo,5,265.9,Concluido
+PED-0040,2025-10-11,Luminária Smart,Casa Inteligente,CLI-093,Salvador,loja física,3,199.9,CONCLUIDO
+PED-0041,2025-05-31,Headset Cloud,Acessórios,CLI-059,São Paulo,loja física,5,265.9,concluido
+PED-0042,2025-09-17,Smart Speaker Mini,Casa Inteligente,CLI-039,Rio de Janeiro,marketplace,3,429.91,concluido
+PED-0043,2025-10-04,Webcam Full HD,Acessórios,CLI-077,Curitiba,aplicativo,1,197.91,CONCLUIDO
+PED-0044,2025-07-05,Cadeira Ergo,Móveis,CLI-008,Rio de Janeiro,site,1,1139.9,Cancelado
+PED-0045,data-invalida,Mouse Precision,Acessórios,CLI-069,Recife,marketplace,4,151.91,cancelado
+PED-0046,2025-03-26,Cadeira Ergo,Móveis,CLI-078,Fortaleza,marketplace,5,1259.9,Cancelado
+PED-0047,2025-12-20,Suporte para Notebook,Utilidades,CLI-052,Curitiba,aplicativo,5,146.9, concluido
+PED-0048,2025-03-03,Suporte para Notebook,Utilidades,CLI-009,Curitiba,site,5,125.91,cancelado
+PED-0049,2025-04-28,Notebook Pulse 14,Eletrônicos,CLI-001,Salvador,site,2,3149.91,CONCLUIDO
+PED-0050,2025-01-17,Mesa Office,Móveis,CLI-066,Rio de Janeiro,loja física,4,849.9,concluido
+PED-0051,2025-10-04,Mochila Urban,Utilidades,CLI-074,Belo Horizonte,marketplace,4,262.4, concluido
+PED-0052,2025-04-08,Smart Speaker Mini,Casa Inteligente,CLI-085,Fortaleza,loja física,4,349.9, concluido
+PED-0053,2025-08-28,Luminária Smart,Casa Inteligente,CLI-084,Salvador,site,4,199.9,Cancelado
+PED-0054,2025-06-23,Smart Speaker Mini,Casa Inteligente,CLI-025,Rio de Janeiro,aplicativo,2,349.9, concluido
+PED-0055,2025-04-04,Cadeira Ergo,Móveis,CLI-032,Salvador,aplicativo,5,1199.9,CONCLUIDO
+PED-0056,2025-01-26,Webcam Full HD,Acessórios,CLI-012,Rio de Janeiro,marketplace,4,197.91, concluido
+PED-0057,2025-09-04,Suporte para Notebook,Utilidades,CLI-008,Recife,aplicativo,1,146.9, concluido
+PED-0058,2025-05-16,Mouse Precision,Acessórios,CLI-055,Belo Horizonte,marketplace,2,169.9,Concluido
+PED-0059,2025-04-22,Luminária Smart,Casa Inteligente,CLI-095,São Paulo,loja física,1,199.9,CONCLUIDO
+PED-0060,2025-10-27,Mouse Precision,Acessórios,CLI-008,Salvador,marketplace,1,151.91,cancelado
+PED-0061,2025-02-04,Suporte para Notebook,Utilidades,CLI-016,Rio de Janeiro,site,5,146.9,CONCLUIDO
+PED-0062,2025-08-03,Notebook Pulse 14,Eletrônicos,CLI-067,Curitiba,loja física,2,3499.9,Cancelado
+PED-0063,2025-06-10,Suporte para Notebook,Utilidades,CLI-051,Recife,loja física,4,146.9,Concluido
+PED-0064,2025-02-07,Luminária Smart,Casa Inteligente,CLI-080,Salvador,site,5,189.9,concluido
+PED-0065,2025-09-17,Cadeira Ergo,Móveis,CLI-045,Salvador,marketplace,3,1139.9,Concluido
+PED-0066,2025-03-22,Mouse Precision,Acessórios,CLI-079,São Paulo,loja física,1,169.9,concluido
+PED-0067,2025-05-16,Smart Speaker Mini,Casa Inteligente,CLI-071,Recife,loja física,3,349.9,cancelado
+PED-0068,2025-04-18,Mesa Office,Móveis,CLI-088,Brasília,aplicativo,3,849.9,CONCLUIDO
+PED-0069,2025-02-17,Headset Cloud,Acessórios,CLI-006,São Paulo,loja física,2,289.91,Cancelado
+PED-0070,2025-05-15,Mochila Urban,Utilidades,CLI-057,Fortaleza,site,1,262.4,CONCLUIDO
+PED-0071,2025-12-20,Mochila Urban,Utilidades,CLI-005,Curitiba,marketplace,4,262.4,concluido
+PED-0072,2025-01-22,Cadeira Ergo,Móveis,CLI-006,Curitiba,marketplace,2,1199.9,Cancelado
+PED-0073,2025-02-22,Mesa Office,Móveis,CLI-053,Recife,marketplace,2,950.0,concluido
+PED-0074,2025-07-31,Luminária Smart,Casa Inteligente,CLI-095,Curitiba,aplicativo,2,170.91,Concluido
+PED-0075,2025-03-23,Smart Speaker Mini,Casa Inteligente,CLI-005,Belo Horizonte,marketplace,2,399.9, concluido
+PED-0076,2025-06-29,Cadeira Ergo,Móveis,CLI-029,São Paulo,marketplace,4,1139.9,Concluido
+PED-0077,2025-05-23,Smart Speaker Mini,Casa Inteligente,CLI-045,Fortaleza,loja física,1,399.9,CONCLUIDO
+PED-0078,2025-05-14,Mochila Urban,Utilidades,CLI-034,São Paulo,site,5,262.4, concluido
+PED-0079,2025-06-26,Mesa Office,Móveis,CLI-078,Salvador,aplicativo,5,892.39,concluido
+PED-0080,2025-05-11,Luminária Smart,Casa Inteligente,CLI-056,São Paulo,marketplace,3,199.9, concluido
+PED-0081,2025-02-05,Mesa Office,Móveis,CLI-041,Salvador,loja física,5,950.0,Concluido
+PED-0082,2025-12-08,Headset Cloud,Acessórios,CLI-052,Brasília,marketplace,2,289.91, concluido
+PED-0083,2025-12-07,Headset Cloud,Acessórios,CLI-079,Brasília,aplicativo,5,265.9,CONCLUIDO
+PED-0084,2025-06-05,Cadeira Ergo,Móveis,CLI-056,Curitiba,aplicativo,4,1139.9, concluido
+PED-0085,2025-12-12,Suporte para Notebook,Utilidades,CLI-095,Recife,site,3,146.9,cancelado
+PED-0086,2025-12-06,Notebook Pulse 14,Eletrônicos,CLI-012,Rio de Janeiro,loja física,2,3324.9,concluido
+PED-0087,2025-03-17,Luminária Smart,Casa Inteligente,CLI-032,Belo Horizonte,site,4,170.91, concluido
+PED-0088,2025-11-19,Notebook Pulse 14,Eletrônicos,CLI-092,Fortaleza,aplicativo,4,3149.91,concluido
+PED-0089,2025-03-17,Luminária Smart,Casa Inteligente,CLI-055,Rio de Janeiro,marketplace,5,170.91, concluido
+PED-0090,2025-01-26,Webcam Full HD,Acessórios,CLI-016,Belo Horizonte,marketplace,4,197.91,Cancelado
+PED-0091,2025-09-29,Webcam Full HD,Acessórios,CLI-057,Fortaleza,aplicativo,2,219.9,Cancelado
+PED-0092,data-invalida,Mouse Precision,Acessórios,CLI-034,Rio de Janeiro,loja física,5,169.9, concluido
+PED-0093,2025-11-17,Suporte para Notebook,Utilidades,CLI-057,Salvador,loja física,2,146.9,Concluido
+PED-0094,2025-06-21,Mesa Office,Móveis,CLI-011,Recife,marketplace,2,950.0, concluido
+PED-0095,2025-12-22,Mochila Urban,Utilidades,CLI-028,Salvador,aplicativo,4,262.4,Concluido
+PED-0096,2025-10-05,Mouse Precision,Acessórios,CLI-008,Rio de Janeiro,aplicativo,4,169.9,cancelado
+PED-0097,2025-12-23,Luminária Smart,Casa Inteligente,CLI-049,Belo Horizonte,site,3,199.9,Concluido
+PED-0098,2025-07-19,Headset Cloud,Acessórios,CLI-063,Rio de Janeiro,loja física,4,265.9, concluido
+PED-0099,2025-01-15,Headset Cloud,Acessórios,CLI-086,Fortaleza,marketplace,4,289.91,concluido
+PED-0100,2025-11-15,Webcam Full HD,Acessórios,CLI-051,São Paulo,site,4,197.91,concluido
+PED-0101,2025-08-25,Mochila Urban,Utilidades,CLI-034,Fortaleza,loja física,2,224.91, concluido
+PED-0102,2025-06-17,Mesa Office,Móveis,CLI-036,Fortaleza,loja física,1,892.39, concluido
+PED-0103,2025-01-10,Webcam Full HD,Acessórios,CLI-045,Rio de Janeiro,site,1,197.91,CONCLUIDO
+PED-0104,2025-05-07,Suporte para Notebook,Utilidades,CLI-080,Recife,marketplace,2,125.91, concluido
+PED-0105,2025-12-09,Smart Speaker Mini,Casa Inteligente,CLI-028,Belo Horizonte,loja física,3,429.91,concluido
+PED-0106,2025-11-07,Notebook Pulse 14,Eletrônicos,CLI-092,Salvador,marketplace,3,3499.9,CONCLUIDO
+PED-0107,2025-10-24,Luminária Smart,Casa Inteligente,CLI-074,Fortaleza,aplicativo,2,189.9,CONCLUIDO
+PED-0108,2025-10-31,Suporte para Notebook,Utilidades,CLI-090,Brasília,site,5,125.91,CONCLUIDO
+PED-0109,2025-06-27,Webcam Full HD,Acessórios,CLI-085,Curitiba,site,5,219.9,Cancelado
+PED-0110,2025-06-24,Luminária Smart,Casa Inteligente,CLI-063,Salvador,aplicativo,3,189.9,Cancelado
+PED-0111,2025-08-24,Mochila Urban,Utilidades,CLI-023,Brasília,aplicativo,4,237.41, concluido
+PED-0112,2025-10-31,Cadeira Ergo,Móveis,CLI-032,Salvador,loja física,4,1199.9,concluido
+PED-0113,2025-08-26,Notebook Pulse 14,Eletrônicos,CLI-086,Fortaleza,loja física,1,3499.9, concluido
+PED-0114,2025-06-16,Mochila Urban,Utilidades,CLI-028,Curitiba,loja física,3,237.41,Concluido
+PED-0115,2025-11-02,Cadeira Ergo,Móveis,CLI-002,Rio de Janeiro,site,2,1259.9,Cancelado
+PED-0116,2025-07-28,Mouse Precision,Acessórios,CLI-089,Belo Horizonte,aplicativo,4,151.91,CONCLUIDO
+PED-0117,2025-02-17,Cadeira Ergo,Móveis,CLI-052,Rio de Janeiro,loja física,5,1139.9,Concluido
+PED-0118,2025-08-31,Webcam Full HD,Acessórios,CLI-055,Curitiba,loja física,4,219.9,Concluido
+PED-0119,2025-06-06,Cadeira Ergo,Móveis,CLI-016,Rio de Janeiro,loja física,1,1139.9,Cancelado
+PED-0120,2025-10-02,Mochila Urban,Utilidades,CLI-028,Belo Horizonte,loja física,5,224.91,cancelado
+PED-0121,2025-11-02,Cadeira Ergo,Móveis,CLI-025,Brasília,marketplace,3,1139.9,concluido
+PED-0122,2025-06-04,Luminária Smart,Casa Inteligente,CLI-069,Recife,loja física,1,199.9,CONCLUIDO
+PED-0123,2025-10-11,Cadeira Ergo,Móveis,CLI-017,Belo Horizonte,site,1,1259.9,cancelado
+PED-0124,2025-05-26,Mouse Precision,Acessórios,CLI-057,Curitiba,marketplace,1,169.9,Concluido
+PED-0125,2025-09-02,Smart Speaker Mini,Casa Inteligente,CLI-052,Belo Horizonte,site,5,349.9,Cancelado
+PED-0126,2025-12-18,Luminária Smart,Casa Inteligente,CLI-020,Brasília,site,2,170.91,CONCLUIDO
+PED-0127,2025-10-13,Headset Cloud,Acessórios,CLI-067,Fortaleza,aplicativo,4,265.9,Concluido
+PED-0128,2025-10-29,Headset Cloud,Acessórios,CLI-073,São Paulo,site,2,289.91,Cancelado
+PED-0129,2025-04-19,Cadeira Ergo,Móveis,CLI-011,Recife,marketplace,2,1259.9,cancelado
+PED-0130,2025-02-08,Mochila Urban,Utilidades,CLI-053,Belo Horizonte,aplicativo,3,224.91,CONCLUIDO
+PED-0131,2025-04-29,Cadeira Ergo,Móveis,CLI-037,Belo Horizonte,site,2,1259.9,Concluido
+PED-0132,2025-11-17,Notebook Pulse 14,Eletrônicos,CLI-026,Fortaleza,site,5,3499.9,concluido
+PED-0133,2025-11-28,Mochila Urban,Utilidades,CLI-019,Salvador,site,2,237.41,Concluido
+PED-0134,2025-11-01,Notebook Pulse 14,Eletrônicos,CLI-057,Salvador,aplicativo,3,3324.9,Cancelado
+PED-0135,2025-07-26,Cadeira Ergo,Móveis,CLI-070,Belo Horizonte,aplicativo,1,1259.9,cancelado
+PED-0136,2025-01-21,Headset Cloud,Acessórios,CLI-078,Brasília,site,1,289.91,concluido
+PED-0137,2025-12-12,Notebook Pulse 14,Eletrônicos,CLI-003,Brasília,site,2,3499.9, concluido
+PED-0138,data-invalida,Webcam Full HD,Acessórios,CLI-036,Recife,aplicativo,4,219.9,CONCLUIDO
+PED-0139,2025-08-29,Mesa Office,Móveis,CLI-043,Curitiba,site,2,892.39,Concluido
+PED-0140,2025-07-30,Mouse Precision,Acessórios,CLI-085,Fortaleza,site,4,169.9,CONCLUIDO
+PED-0141,2025-06-11,Cadeira Ergo,Móveis,CLI-015,Fortaleza,site,5,1199.9, concluido
+PED-0142,2025-07-31,Luminária Smart,Casa Inteligente,CLI-067,Curitiba,aplicativo,4,170.91,CONCLUIDO
+PED-0143,2025-04-15,Cadeira Ergo,Móveis,CLI-017,Brasília,aplicativo,4,1259.9,CONCLUIDO
+PED-0144,2025-01-15,Notebook Pulse 14,Eletrônicos,CLI-091,Recife,loja física,5,3149.91,CONCLUIDO
+PED-0145,2025-10-10,Headset Cloud,Acessórios,CLI-029,Salvador,aplicativo,1,265.9,Cancelado
+PED-0146,2025-03-20,Mouse Precision,Acessórios,CLI-066,Brasília,aplicativo,4,169.9, concluido
+PED-0147,2025-05-05,Mouse Precision,Acessórios,CLI-050,Rio de Janeiro,marketplace,1,151.91,Concluido
+PED-0148,2025-08-01,Mesa Office,Móveis,CLI-035,São Paulo,loja física,3,950.0,cancelado
+PED-0149,2025-10-24,Mouse Precision,Acessórios,CLI-058,Belo Horizonte,loja física,3,151.91,cancelado
+PED-0150,2025-10-06,Headset Cloud,Acessórios,CLI-042,Rio de Janeiro,marketplace,5,289.91, concluido
+PED-0151,2025-04-30,Headset Cloud,Acessórios,CLI-041,Belo Horizonte,aplicativo,4,265.9,Cancelado
+PED-0152,2025-11-30,Mochila Urban,Utilidades,CLI-005,Recife,loja física,1,237.41, concluido
+PED-0153,2025-02-21,Webcam Full HD,Acessórios,CLI-002,Recife,aplicativo,2,219.9,CONCLUIDO
+PED-0154,2025-08-29,Cadeira Ergo,Móveis,CLI-080,Fortaleza,site,3,1199.9,Cancelado
+PED-0155,2025-10-01,Headset Cloud,Acessórios,CLI-081,Belo Horizonte,site,5,289.91,CONCLUIDO
+PED-0156,2025-05-01,Cadeira Ergo,Móveis,CLI-012,Fortaleza,site,1,1139.9, concluido
+PED-0157,2025-03-27,Cadeira Ergo,Móveis,CLI-006,Curitiba,site,3,1139.9,Concluido
+PED-0158,2025-07-11,Headset Cloud,Acessórios,CLI-032,Fortaleza,marketplace,2,265.9,concluido
+PED-0159,2025-02-10,Notebook Pulse 14,Eletrônicos,CLI-080,Rio de Janeiro,aplicativo,5,3324.9,concluido
+PED-0160,2025-04-29,Mouse Precision,Acessórios,CLI-059,Brasília,site,4,169.9,Concluido
+PED-0161,2025-12-13,Webcam Full HD,Acessórios,CLI-010,Belo Horizonte,loja física,5,197.91,Concluido
+PED-0162,2025-11-24,Headset Cloud,Acessórios,CLI-059,Brasília,marketplace,4,289.91, concluido
+PED-0163,2025-02-24,Suporte para Notebook,Utilidades,CLI-074,Curitiba,loja física,3,146.9,CONCLUIDO
+PED-0164,2025-12-04,Headset Cloud,Acessórios,CLI-002,São Paulo,aplicativo,3,289.91,concluido
+PED-0165,2025-11-07,Mesa Office,Móveis,CLI-082,Rio de Janeiro,loja física,2,849.9,Cancelado
+PED-0166,2025-02-19,Luminária Smart,Casa Inteligente,CLI-057,São Paulo,loja física,2,189.9,CONCLUIDO
+PED-0167,2025-06-01,Mesa Office,Móveis,CLI-054,Recife,marketplace,2,950.0,cancelado
+PED-0168,2025-07-07,Webcam Full HD,Acessórios,CLI-022,Brasília,aplicativo,3,219.9,Cancelado
+PED-0169,2025-06-23,Smart Speaker Mini,Casa Inteligente,CLI-010,Recife,marketplace,4,399.9,cancelado
+PED-0170,2025-07-07,Smart Speaker Mini,Casa Inteligente,CLI-002,Brasília,site,4,399.9,Concluido
+PED-0171,2025-12-11,Cadeira Ergo,Móveis,CLI-049,Curitiba,site,2,1259.9, concluido
+PED-0172,2025-01-13,Notebook Pulse 14,Eletrônicos,CLI-042,Rio de Janeiro,site,4,3499.9,Cancelado
+PED-0173,2025-06-04,Headset Cloud,Acessórios,CLI-018,São Paulo,site,3,265.9, concluido
+PED-0174,2025-03-01,Smart Speaker Mini,Casa Inteligente,CLI-069,Recife,aplicativo,4,349.9,Concluido
+PED-0175,2025-12-10,Webcam Full HD,Acessórios,CLI-076,Recife,aplicativo,1,219.9, concluido
+PED-0176,2025-11-12,Headset Cloud,Acessórios,CLI-005,Curitiba,marketplace,4,289.91, concluido
+PED-0177,2025-05-01,Mesa Office,Móveis,CLI-088,Curitiba,loja física,1,849.9, concluido
+PED-0178,2025-05-22,Suporte para Notebook,Utilidades,CLI-059,Salvador,marketplace,5,125.91,CONCLUIDO
+PED-0179,2025-01-26,Mesa Office,Móveis,CLI-017,Rio de Janeiro,site,5,849.9,concluido
+PED-0180,2025-10-28,Suporte para Notebook,Utilidades,CLI-043,Recife,site,3,125.91,concluido
+PED-0181,2025-03-08,Webcam Full HD,Acessórios,CLI-023,Salvador,site,2,219.9,CONCLUIDO
+PED-0182,2025-07-03,Suporte para Notebook,Utilidades,CLI-003,Recife,loja física,1,146.9,concluido
+PED-0183,2025-08-04,Webcam Full HD,Acessórios,CLI-009,Belo Horizonte,aplicativo,3,197.91,cancelado
+PED-0184,data-invalida,Notebook Pulse 14,Eletrônicos,CLI-058,Rio de Janeiro,site,5,3149.91,Concluido
+PED-0185,2025-08-23,Luminária Smart,Casa Inteligente,CLI-062,Fortaleza,aplicativo,1,170.91, concluido
+PED-0186,2025-12-31,Mouse Precision,Acessórios,CLI-011,Curitiba,marketplace,1,151.91,concluido
+PED-0187,2025-05-21,Notebook Pulse 14,Eletrônicos,CLI-075,Curitiba,aplicativo,5,3499.9,cancelado
+PED-0188,2025-05-31,Mouse Precision,Acessórios,CLI-013,Salvador,marketplace,4,169.9, concluido
+PED-0189,2025-04-27,Headset Cloud,Acessórios,CLI-059,Fortaleza,aplicativo,1,289.91,Concluido
+PED-0190,2025-08-07,Mesa Office,Móveis,CLI-033,Curitiba,marketplace,4,950.0,CONCLUIDO
+PED-0191,2025-02-16,Smart Speaker Mini,Casa Inteligente,CLI-056,Salvador,loja física,2,349.9,cancelado
+PED-0192,2025-01-31,Notebook Pulse 14,Eletrônicos,CLI-072,Curitiba,site,4,3499.9,Concluido
+PED-0193,2025-12-07,Headset Cloud,Acessórios,CLI-037,Brasília,loja física,1,265.9,cancelado
+PED-0194,2025-09-17,Suporte para Notebook,Utilidades,CLI-085,Belo Horizonte,marketplace,1,125.91,Concluido
+PED-0195,2025-10-12,Mesa Office,Móveis,CLI-036,Rio de Janeiro,aplicativo,5,849.9,cancelado
+PED-0196,2025-11-11,Webcam Full HD,Acessórios,CLI-078,Brasília,site,2,197.91,Concluido
+PED-0197,2025-12-26,Cadeira Ergo,Móveis,CLI-045,São Paulo,marketplace,2,1199.9,cancelado
+PED-0198,2025-12-03,Headset Cloud,Acessórios,CLI-019,São Paulo,site,5,265.9,concluido
+PED-0199,2025-07-12,Headset Cloud,Acessórios,CLI-044,Recife,loja física,3,289.91,Cancelado
+PED-0200,2025-06-16,Notebook Pulse 14,Eletrônicos,CLI-011,São Paulo,marketplace,2,3499.9,cancelado
+PED-0201,2025-01-26,Smart Speaker Mini,Casa Inteligente,CLI-057,Fortaleza,aplicativo,5,399.9, concluido
+PED-0202,2025-08-01,Cadeira Ergo,Móveis,CLI-066,Salvador,loja física,4,1139.9,CONCLUIDO
+PED-0203,2025-05-26,Notebook Pulse 14,Eletrônicos,CLI-068,Brasília,site,2,3324.9, concluido
+PED-0204,2025-11-03,Luminária Smart,Casa Inteligente,CLI-027,Brasília,marketplace,2,170.91,Concluido
+PED-0205,2025-05-29,Mesa Office,Móveis,CLI-001,Belo Horizonte,aplicativo,2,849.9,concluido
+PED-0206,2025-07-14,Webcam Full HD,Acessórios,CLI-065,Curitiba,site,4,197.91,Cancelado
+PED-0207,2025-01-22,Headset Cloud,Acessórios,CLI-059,Salvador,loja física,5,265.9, concluido
+PED-0208,2025-10-21,Headset Cloud,Acessórios,CLI-038,Salvador,aplicativo,1,289.91,Concluido
+PED-0209,2025-03-29,Notebook Pulse 14,Eletrônicos,CLI-089,Curitiba,site,4,3324.9,CONCLUIDO
+PED-0210,2025-05-05,Headset Cloud,Acessórios,CLI-068,Salvador,aplicativo,3,289.91,Cancelado
+PED-0211,data-invalida,Mesa Office,Móveis,CLI-043,Recife,site,5,849.9,Cancelado
+PED-0212,2025-02-28,Webcam Full HD,Acessórios,CLI-045,Curitiba,marketplace,2,197.91,CONCLUIDO
+PED-0213,2025-03-16,Cadeira Ergo,Móveis,CLI-023,Recife,site,2,1139.9,Cancelado
+PED-0214,2025-09-10,Mouse Precision,Acessórios,CLI-088,Curitiba,loja física,2,169.9, concluido
+PED-0215,2025-02-04,Mouse Precision,Acessórios,CLI-081,Brasília,loja física,5,169.9,CONCLUIDO
+PED-0216,2025-06-30,Webcam Full HD,Acessórios,CLI-040,Belo Horizonte,aplicativo,1,197.91,CONCLUIDO
+PED-0217,2025-07-08,Cadeira Ergo,Móveis,CLI-083,Salvador,aplicativo,4,1139.9,cancelado
+PED-0218,2025-10-11,Luminária Smart,Casa Inteligente,CLI-074,Rio de Janeiro,loja física,5,189.9, concluido
+PED-0219,2025-09-14,Mochila Urban,Utilidades,CLI-058,Salvador,loja física,1,224.91,cancelado
+PED-0220,2025-11-27,Mochila Urban,Utilidades,CLI-032,Belo Horizonte,aplicativo,5,224.91,cancelado
+PED-0221,2025-11-09,Mochila Urban,Utilidades,CLI-048,Brasília,aplicativo,4,237.41,Concluido
+PED-0222,2025-12-14,Notebook Pulse 14,Eletrônicos,CLI-081,Curitiba,site,3,3149.91,CONCLUIDO
+PED-0223,2025-10-13,Headset Cloud,Acessórios,CLI-033,Recife,loja física,1,289.91,cancelado
+PED-0224,2025-12-06,Mochila Urban,Utilidades,CLI-040,Fortaleza,marketplace,5,237.41,Cancelado
+PED-0225,2025-02-13,Cadeira Ergo,Móveis,CLI-049,Curitiba,marketplace,5,1259.9,CONCLUIDO
